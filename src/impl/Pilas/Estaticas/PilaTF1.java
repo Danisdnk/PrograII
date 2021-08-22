@@ -3,7 +3,7 @@ package impl.Pilas.Estaticas;
 import api.PilaTDA;
 
 public class PilaTF1 implements PilaTDA {
-    int[] arr; // arreglo que contiene la informaci´on
+    int[] arr; // arreglo que contiene la informacion
     int inx; // cantidad de elementos en la pila
 
     public void InicializarPila() {
